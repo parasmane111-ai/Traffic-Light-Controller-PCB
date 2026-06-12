@@ -121,10 +121,3 @@ Traffic-Light-Controller/
 │
 ├── KiCad_PCB/
 
-## Author
-
-Developed by **Paras Mane**  
-B.Tech Electronics and Telecommunication Engineering  
-Government College of Engineering, Karad  
-
-GitHub: [@parasmane111-ai](https://github.com/parasmane111-ai)
